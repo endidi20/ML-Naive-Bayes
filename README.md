@@ -1,2 +1,2 @@
 # ML-Naive-Bayes
-Multinomial and Gaussian Classification using the Golf dataset
+Naive bayes algorithm using the Multinomial, and then the Gaussian classifiers on the Golf dataset
